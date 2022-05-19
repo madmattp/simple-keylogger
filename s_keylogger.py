@@ -1,3 +1,5 @@
+# Made by madmattp (https://github.com/madmattp)
+
 from pynput import keyboard
 
 def on_press(key):
