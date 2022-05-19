@@ -1,4 +1,4 @@
-# simple-keylogger
+# Simple Keylogger
   A simple keylogger made in python.
   It generates a "log.txt" file with all the inputs from the keyboard of the user.
 
