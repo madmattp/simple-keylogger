@@ -1,5 +1,5 @@
 # Simple Keylogger
-  A simple keylogger made in python.
+  A simple keylogger made in Python with the "pynput" lib.
   It generates a "log.txt" file with all the inputs from the keyboard of the user.
 
 # DISCLAIMER 
