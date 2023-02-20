@@ -3,7 +3,7 @@
 from pynput import keyboard
 
 def on_press(key):
-    dic = {"Key.backspace":"[BACKSPACE]",
+    dic = {"Key.backspace":"[BACKSPACE]",   # Dictionary with all the keys in the keyboard
         "Key.tab":"[TAB]" ,
         "Key.caps_lock":"[CAPS_LOCK]",
         "Key.shift":"[SHIFT]",
